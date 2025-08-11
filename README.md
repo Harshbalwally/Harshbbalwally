@@ -20,8 +20,8 @@ Here are some of the projects I've worked on. You can find more in my repositori
 
 | Project Name                                                   | Description                                                                                             | Skills Demonstrated                                   |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| **[Analysis of Men's Shoe Market Pricing](https://github.com/Harshbalwally/mens-shoe-price-analysis)** *(<- This will be a link after you upload it!)* | An exploratory data analysis of the men's shoe market to understand brand positioning and pricing strategies. | Pandas, Data Cleaning, Seaborn, Matplotlib, EDA       |
-| **[Global Superstore Sales Analysis](https://github.com/Harshbalwally/global-superstore-analysis)** *(<- Link to your other project)* | Analyzed global sales data to identify top-performing regions, products, and sales trends over time.      | Time-Series Analysis, Pandas, Data Visualization    |
+| **[Analysis of Men's Shoe Market Pricing](https://github.com/Harshbalwally/mens-shoe-price-analysis)** | An exploratory data analysis of the men's shoe market to understand brand positioning and pricing strategies. | Pandas, Data Cleaning, Seaborn, Matplotlib, EDA       |
+
 
 
 ---
