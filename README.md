@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Harsh Balwally
 
-I am a budding Data Analyst with a strong foundation in Python, SQL, Statistics, and Probability. I am passionate about uncovering insights from data and using them to solve real-world problems. My goal is to transform complex datasets into clear, actionable business solutions.
+I am a building Data Analyst with a strong foundation in Python, SQL, Statistics, and Probability. I am passionate about uncovering insights from data and using them to solve real-world problems. My goal is to transform complex datasets into clear, actionable business solutions.
 
 ---
 
